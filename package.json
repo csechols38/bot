@@ -9,6 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-bittrex-api": "^0.8.1"
+    "bitcoin-exchange-rates": "0.0.12",
+    "color": "^2.0.1",
+    "colors": "^1.1.2",
+    "commander": "^2.12.2",
+    "exchange-rates": "^0.1.2",
+    "money": "^0.2.0",
+    "node-bittrex-api": "^0.8.1",
+    "single-line-log": "^1.1.2",
+    "trend": "^0.3.0"
   }
 }
